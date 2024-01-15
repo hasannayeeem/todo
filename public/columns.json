@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "title": "Incomplete",
+        "image": ""
+    },
+    {
+        "id": "1",
+        "title": "To Do",
+        "image": ""
+    },
+    {
+        "id": "2",
+        "title": "Doing",
+        "image": ""
+    },
+    {
+        "id": "3",
+        "title": "Under Review",
+        "image": ""
+    },
+    {
+        "id": "4",
+        "title": "Completed",
+        "image": ""
+    },
+    {
+        "id": "5",
+        "title": "Overdue",
+        "image": ""
+    }
+]
